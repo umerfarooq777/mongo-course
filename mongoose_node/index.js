@@ -90,11 +90,11 @@ db.Students.insertMany(
 );
 
 
- {
-    "name": "Binamra",
-    "age": 20,
-  }
-  {
-    "name": "Thapa",
-    "age": 21,
-  }
+//  {
+//     "name": "Binamra",
+//     "age": 20,
+//   }
+//   {
+//     "name": "Thapa",
+//     "age": 21,
+//   }
